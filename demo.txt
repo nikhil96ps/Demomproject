@@ -1,1 +1,2 @@
 October software testing batch 2022
+Manual and automation testing
